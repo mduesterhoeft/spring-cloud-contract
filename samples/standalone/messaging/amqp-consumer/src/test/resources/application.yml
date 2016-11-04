@@ -1,0 +1,3 @@
+stubrunner:
+  work-offline: true
+  ids: 'com.example:amqp-publisher'
